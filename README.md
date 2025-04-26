@@ -21,4 +21,3 @@ A Python script that checks if today's exchange rate is favorable compared to re
 1. Clone the repository:
    ```bash
    git clone https://github.com/Luka582/SMS_exchange_notification.git
-   cd currency-notifier
